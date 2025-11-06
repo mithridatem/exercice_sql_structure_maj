@@ -1,5 +1,4 @@
 **Exercice 1 SQL requêtes de mise à jour INSERT SQL** :
-
 Depuis la base de données des livres, nous avons besoin
 de remplir celle-ci avec des données de test.
 Pour cela vous allez créer les enregistrements suivants :
